@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "onneggs"
-version = "0.0.4"
+version = "1.0.0"
 requires-python = ">=3.10"
 dependencies = ["onnx", "maturin", "numpy", "onnxruntime", "click", "eggwrap"]
 readme = "readme.md"
